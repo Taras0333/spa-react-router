@@ -5,6 +5,7 @@ import Posts from "./posts/posts";
 import { Route, Switch } from "react-router-dom";
 import Manu from "./manu/manu";
 import Photos from "./photos/photos";
+import Contacts from "./contacts/contacts";
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
         </Route>
         <Route exact path="/photos">
           <Photos />
+        </Route>
+        <Route exact path="/contacts">
+          <Contacts />
         </Route>
       </Switch>
     </>

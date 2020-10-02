@@ -13,6 +13,9 @@ const Manu = () => (
     <NavLink to="/photos" activeClassName="active">
       <button className="btns">Photos</button>
     </NavLink>
+    <NavLink to="/contacts" activeClassName="active">
+      <button className="btns">Contacts</button>
+    </NavLink>
   </div>
 );
 
