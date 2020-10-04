@@ -5,7 +5,8 @@ import Posts from "./posts/posts";
 import { Route, Switch } from "react-router-dom";
 import Manu from "./manu/manu";
 import Photos from "./photos/photos";
-import Contacts from "./contacts/contacts";
+import { Contacts, Info } from "./contacts/contacts";
+import Inf from "./contacts/info";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Route exact path="/contacts">
           <Contacts />
         </Route>
+        <Route path={"/info/:storyId"} exact component={Inf} />
       </Switch>
     </>
   );
