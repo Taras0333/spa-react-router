@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/spa-react-router/static/css/main.ad6fd7b7.chunk.css",
-    "main.js": "/spa-react-router/static/js/main.f3f5131a.chunk.js",
-    "main.js.map": "/spa-react-router/static/js/main.f3f5131a.chunk.js.map",
+    "main.css": "/spa-react-router/static/css/main.40acbe0a.chunk.css",
+    "main.js": "/spa-react-router/static/js/main.31607008.chunk.js",
+    "main.js.map": "/spa-react-router/static/js/main.31607008.chunk.js.map",
     "runtime-main.js": "/spa-react-router/static/js/runtime-main.540a5d85.js",
     "runtime-main.js.map": "/spa-react-router/static/js/runtime-main.540a5d85.js.map",
-    "static/js/2.65b426c2.chunk.js": "/spa-react-router/static/js/2.65b426c2.chunk.js",
-    "static/js/2.65b426c2.chunk.js.map": "/spa-react-router/static/js/2.65b426c2.chunk.js.map",
+    "static/js/2.ae7df92e.chunk.js": "/spa-react-router/static/js/2.ae7df92e.chunk.js",
+    "static/js/2.ae7df92e.chunk.js.map": "/spa-react-router/static/js/2.ae7df92e.chunk.js.map",
     "index.html": "/spa-react-router/index.html",
-    "precache-manifest.c489ff6de32c165a81e641c1bdfc783a.js": "/spa-react-router/precache-manifest.c489ff6de32c165a81e641c1bdfc783a.js",
+    "precache-manifest.deda2291fe8b78f506bfb6f6c156b505.js": "/spa-react-router/precache-manifest.deda2291fe8b78f506bfb6f6c156b505.js",
     "service-worker.js": "/spa-react-router/service-worker.js",
-    "static/css/main.ad6fd7b7.chunk.css.map": "/spa-react-router/static/css/main.ad6fd7b7.chunk.css.map",
-    "static/js/2.65b426c2.chunk.js.LICENSE.txt": "/spa-react-router/static/js/2.65b426c2.chunk.js.LICENSE.txt",
+    "static/css/main.40acbe0a.chunk.css.map": "/spa-react-router/static/css/main.40acbe0a.chunk.css.map",
+    "static/js/2.ae7df92e.chunk.js.LICENSE.txt": "/spa-react-router/static/js/2.ae7df92e.chunk.js.LICENSE.txt",
     "static/media/1251845.svg": "/spa-react-router/static/media/1251845.99243e5a.svg",
     "static/media/134932.svg": "/spa-react-router/static/media/134932.c6972b98.svg",
     "static/media/454545.svg": "/spa-react-router/static/media/454545.f5766427.svg",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.540a5d85.js",
-    "static/js/2.65b426c2.chunk.js",
-    "static/css/main.ad6fd7b7.chunk.css",
-    "static/js/main.f3f5131a.chunk.js"
+    "static/js/2.ae7df92e.chunk.js",
+    "static/css/main.40acbe0a.chunk.css",
+    "static/js/main.31607008.chunk.js"
   ]
 }
